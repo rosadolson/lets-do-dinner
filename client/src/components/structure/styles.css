@@ -1,0 +1,51 @@
+.imgHeader 
+{
+  position: relative;
+    text-align: center;
+    color: white;
+    max-width: 10%;
+} 
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 black, 0 -1px black;
+  font-family: 'Parisienne';
+  font-size: 100;
+  padding-top: 10;
+  margin: -5;
+  letter-spacing: 2
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-family: 'oswald';
+  font-size: 20;
+  margin-top: -15;
+  padding-bottom: 20;
+  letter-spacing: 2;
+  
+}
+
+.centeredTwo {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-family: 'oswald';
+  font-size: 70;
+  margin-top: -15;
+  padding-bottom: 20;
+  letter-spacing: 2;
+}
+
+
+.header {
+  /* background-image: url('http://janeyholliday.com/wp-content/uploads/2015/08/Chopping-Board.jpg'); */
+  background-size: 100%;
+  /* opacity: 0.8 */
+}

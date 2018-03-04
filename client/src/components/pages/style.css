@@ -1,0 +1,30 @@
+.img {
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10
+} 
+.centered {
+  font-weight: bold;
+  text-decoration: underline;
+  color: white;
+  letter-spacing: 5px
+}
+
+.p {
+  font-size: 25px;
+  color: white
+}
+.p2 {
+  font-size: 25px;
+  color: white
+}
+.p3 {
+  font-size: 25px;
+  color: white
+}
+.imgTwo {
+  max-width: 70%;
+}
